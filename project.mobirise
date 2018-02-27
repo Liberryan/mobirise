@@ -32,8 +32,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "DigLi Library",
+        "meta_descr": "DigLi is the library that you can take with you. DigLi makes it easier for your to read on the go. This page links you to the DigLi library site, as well as our partner site, FDP Reads.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -60,8 +60,8 @@
                 "title": "DigLi Digital Library",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "DigLi is the library that you can take with you. Fully digital, with ebooks and other media that require no downloads, you have all the reading you need for your phone, tablet, laptop or desktop now matter when or where you go.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Go to DigLi</a> "
+                "text": "DigLi is the library that you can take with you. Fully digital, with ebooks and other media that require no downloads, you have all the reading you need for your phone, tablet, laptop or desktop no matter when or where you go. Check us out.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://digli.librarika.com/\" data-toolbar=\"-mbrBtnMove\">Go to DigLi</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1464x1080.jpg",
@@ -89,7 +89,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Our library is growing all the time as we add more audio content. &nbsp; Click below to check us out. &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DigLi Digital Library</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://digli.librarika.com/\" data-toolbar=\"-mbrBtnMove\">DigLi Digital Library</a> "
               }
             ]
           },
